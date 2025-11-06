@@ -31,7 +31,7 @@ LIMIT 5 OFFSET 2;
 ```
 ## 📸 **SQL Queries**
 
-![Check_SQL Query File](https://github.com/palakpatel315/Day_3-Sorting-Data-with-ORDER-BY/tree/main/Day_3_SQL_Queries)
+![Check_SQL Query File](https://github.com/palakpatel315/Day_4-LIMIT-OFFSET-pagination-concepts/tree/main/Day_4_SQL_Queries)
 
 ---
 Thank you [Indian Data Club](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) for starting this challenge and [DPDzero](https://www.linkedin.com/company/dpdzero/) the title sponsor of this challenge
